@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+header {
+  display: inline-flex;
+  height: 50rem;
+  width: 100vw;
+}
+
+.lado1 {
+  background-color: gray;
+  height: auto;
+  width: 50rem;
+}
+
+.apresentacao {
+  background-color: #000;
+  height: auto;
+  width: 60vw;
+}
+
+.logo {
+  height: 100px;
+}
+
+h1 {
+  color: #FFF;
+}
