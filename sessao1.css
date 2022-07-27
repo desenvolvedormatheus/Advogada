@@ -1,0 +1,26 @@
+.sessao1 {
+    background-image: url(img/fundo1000.jpg);
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    height: 20rem;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.sessao1 p ,.sessao1 h1{
+    /* From https://css.glass */
+    background: rgba(0, 0, 0, 0.27);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(8.1px);
+    -webkit-backdrop-filter: blur(8.1px);
+    height: auto;
+    width: 35%;
+    padding: 1rem;
+    text-align: justify;
+}
+.sessao1 h1 {
+    width: auto;
+}

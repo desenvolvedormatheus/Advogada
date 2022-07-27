@@ -1,0 +1,14 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #022044;
+    width: 100vw;
+    height: 4rem;
+    border-bottom: 2px solid #000000;
+}
+.menu1 {
+    width: 20rem;
+    display: flex;
+    justify-content: space-between;
+}
