@@ -1,0 +1,12 @@
+@media (min-width: 700px) {
+    .menu1 {
+        display: flex;
+    }
+    .sessao1 p {
+        display: initial;
+    }
+    .btnmobile {
+        display: none;
+    }
+
+}

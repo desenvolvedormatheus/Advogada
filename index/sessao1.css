@@ -24,3 +24,6 @@
 .sessao1 h1 {
     width: auto;
 }
+.sessao1 p {
+    display: none;
+}

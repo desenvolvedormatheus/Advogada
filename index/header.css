@@ -9,6 +9,11 @@ header {
 }
 .menu1 {
     width: 20rem;
-    display: flex;
+    display: none;
     justify-content: space-between;
+}
+.btnmobile {
+    font-size: 20pt;
+    color: #000000;
+    cursor: pointer;
 }
