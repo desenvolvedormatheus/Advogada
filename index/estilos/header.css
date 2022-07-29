@@ -12,8 +12,11 @@ header {
     display: none;
     justify-content: space-between;
 }
-.btnmobile {
-    font-size: 20pt;
-    color: #000000;
-    cursor: pointer;
+.menu1 li {
+    padding: 0 5px 0 5px;
+    transition: 0.4s;
+}
+.menu1 li:hover {
+    background: #000000;
+    border-radius: 16px;
 }

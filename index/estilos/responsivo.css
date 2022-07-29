@@ -8,5 +8,7 @@
     .btnmobile {
         display: none;
     }
-
+    .sessao1 h1 {
+        font-size: 25pt;
+    }
 }

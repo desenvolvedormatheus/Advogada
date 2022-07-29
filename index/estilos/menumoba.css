@@ -1,0 +1,12 @@
+.btnmobile {
+    background: none;
+    border: none;
+    transform: rotate(90deg);
+    transition: 0.4s;
+    font-size: 20pt;
+    color: #ffffff;
+    cursor: pointer;
+}
+.btnmobile:hover {
+    transform: rotate(120deg);
+}

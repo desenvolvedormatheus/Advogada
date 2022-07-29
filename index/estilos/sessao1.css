@@ -1,5 +1,5 @@
 .sessao1 {
-    background-image: url(img/fundo1000.jpg);
+    background-image: url(../img/fundo1000.jpg);
     background-size: 100vw;
     background-repeat: no-repeat;
     height: 20rem;
@@ -18,12 +18,24 @@
     -webkit-backdrop-filter: blur(8.1px);
     height: auto;
     width: 35%;
-    padding: 1rem;
+    padding: 0.5rem;
     text-align: justify;
+    transition: 0.4s;
 }
 .sessao1 h1 {
+    font-size: 17pt;
     width: auto;
+}
+.sessao1 p:hover, .sessao1 h1:hover {
+    background: #022044;
+    border-radius: 16px;
 }
 .sessao1 p {
     display: none;
+}
+.logo {
+    transition: 0.4s;
+}
+.logo:hover {
+    transform: rotate(2deg);
 }
