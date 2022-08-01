@@ -1,6 +1,6 @@
 .sessao1 {
-    background-image: url(../img/fundo1000.jpg);
-    background-size: 100vw;
+    background-image: url(../img/fundo0.jpg);
+    background-size: 150vw;
     background-repeat: no-repeat;
     height: 20rem;
     width: 100vw;
@@ -23,7 +23,7 @@
     transition: 0.4s;
 }
 .sessao1 h1 {
-    font-size: 17pt;
+    font-size: 19pt;
     width: auto;
 }
 .sessao1 p:hover, .sessao1 h1:hover {

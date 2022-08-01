@@ -7,6 +7,3 @@
     color: #ffffff;
     cursor: pointer;
 }
-.btnmobile:hover {
-    transform: rotate(120deg);
-}

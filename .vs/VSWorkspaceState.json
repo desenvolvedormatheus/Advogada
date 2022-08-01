@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\index",
+    "\\index\\estilos"
   ],
-  "SelectedNode": "\\sessao1.css",
+  "SelectedNode": "\\index\\estilos\\responsivo.css",
   "PreviewInSolutionExplorer": false
 }

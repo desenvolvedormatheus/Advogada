@@ -2,13 +2,23 @@
     .menu1 {
         display: flex;
     }
+
     .sessao1 p {
         display: initial;
     }
+
     .btnmobile {
         display: none;
     }
+
     .sessao1 h1 {
         font-size: 25pt;
+    }
+}
+
+@media (min-width: 800px) {
+    .sessao1 {
+        background-image: url(../img/fundo1.jpg);
+        background-size: 100vw;
     }
 }

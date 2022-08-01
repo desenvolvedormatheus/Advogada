@@ -13,10 +13,10 @@ header {
     justify-content: space-between;
 }
 .menu1 li {
-    padding: 0 5px 0 5px;
     transition: 0.4s;
 }
 .menu1 li:hover {
     background: #000000;
     border-radius: 16px;
+    padding: 0 15px 0 15px;
 }
