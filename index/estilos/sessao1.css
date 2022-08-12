@@ -8,6 +8,8 @@
     align-items: center;
     justify-content: space-around;
     border-bottom: 2px solid rgb(0, 0, 0);
+    position: relative;
+    overflow: hidden;
 }
 
 .sessao1 p ,.sessao1 h1{
@@ -21,6 +23,7 @@
     padding: 0.5rem;
     text-align: justify;
     transition: 0.4s;
+    box-sizing: border-box;
 }
 .sessao1 h1 {
     font-size: 19pt;
@@ -28,14 +31,8 @@
 }
 .sessao1 p:hover, .sessao1 h1:hover {
     background: #022044;
-    border-radius: 16px;
+    border-bottom: 1px solid #000;
 }
 .sessao1 p {
     display: none;
-}
-.logo {
-    transition: 0.4s;
-}
-.logo:hover {
-    transform: rotate(2deg);
 }
